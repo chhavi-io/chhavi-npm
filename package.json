@@ -1,0 +1,14 @@
+{
+  "name": "chhavi-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap --coverage test/index.js"
+  },
+  "author": "CluGrid",
+  "license": "MIT",
+  "dependencies": {
+    "tap": "^11.1.0"
+  }
+}
