@@ -6,6 +6,11 @@
   "scripts": {
     "test": "tap --coverage test/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chhavi-io/chhavi-npm.git"
+  },
+  "homepage": "https://github.com/chhavi-io/chhavi-npm/blob/master/README.md",
   "author": "CluGrid",
   "license": "MIT",
   "dependencies": {
